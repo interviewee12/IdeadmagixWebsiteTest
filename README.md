@@ -14,5 +14,10 @@ Features and Achievements:
 *Implemented sliders using Owl Carousel and CDN.
 *Included Page Loader to give loading effect during page rendering.
 *Successfully hosted the website using netlify hosting service.
+
+
 *Project Preview Link:
 https://6738bbbf9d289100087f1fd3--bejewelled-profiterole-f9a681.netlify.app/
+
+
+
