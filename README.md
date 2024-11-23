@@ -26,7 +26,6 @@ Features and Achievements:
 
 
 *Project Preview Link:
-https://6738bbbf9d289100087f1fd3--bejewelled-profiterole-f9a681.netlify.app/
-
+https://bejewelled-profiterole-f9a681.netlify.app/
 
 
